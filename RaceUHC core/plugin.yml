@@ -1,5 +1,5 @@
 name: RaceUHC_Core
-main: LaFuma\Core
+main: LaFuma\RaceUHC Core
 version: 1.9
 api: 3.0.0-ALPHA12
 author: HummelSvem
