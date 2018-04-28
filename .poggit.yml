@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HummelSvem/RaceUHC-Core
+branches:
+- master
+projects:
+  RaceUHC core:
+    path: RaceUHC core/
+...
