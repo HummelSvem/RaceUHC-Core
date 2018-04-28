@@ -1,7 +1,7 @@
 name: Core RaceUHC
 main: LaFuma\Core
 version: 1.9
-api: 3.0.0ALPHA12
+api: 3.0.0-ALPHA12
 commands:
 author: HummelSvem
     raceuhc:
