@@ -1,0 +1,8 @@
+name: Core RaceUHC
+main: LaFuma\Core
+version: 1.9
+api: 3.0.0ALPHA12
+commands:
+author: HummelSvem
+    raceuhc:
+        description: Get a list of our commands!
